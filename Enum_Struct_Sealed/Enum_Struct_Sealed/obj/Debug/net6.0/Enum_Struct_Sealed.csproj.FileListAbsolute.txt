@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\bin\Debug\net6.0\Enum_Struct_Sealed.exe
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\bin\Debug\net6.0\Enum_Struct_Sealed.deps.json
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\bin\Debug\net6.0\Enum_Struct_Sealed.runtimeconfig.json
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\bin\Debug\net6.0\Enum_Struct_Sealed.dll
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\bin\Debug\net6.0\Enum_Struct_Sealed.pdb
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.AssemblyInfo.cs
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.dll
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\refint\Enum_Struct_Sealed.dll
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.pdb
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\Enum_Struct_Sealed.genruntimeconfig.cache
+C:\Users\user\Desktop\Enum_Struct_Seaeld\Enum_Struct_Sealed\Enum_Struct_Sealed\obj\Debug\net6.0\ref\Enum_Struct_Sealed.dll

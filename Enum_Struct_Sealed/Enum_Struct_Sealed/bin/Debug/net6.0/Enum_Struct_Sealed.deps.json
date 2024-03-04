@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Enum_Struct_Sealed/1.0.0": {
+        "runtime": {
+          "Enum_Struct_Sealed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enum_Struct_Sealed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
